@@ -3,7 +3,7 @@
 
 # Naila Jafarzade
 
-### Python Developer · Backend · AI & LLM
+### AI Engineer | Software Developer | Machine Learning & Backend Development
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;pause=1500&amp;color=818CF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+backend+systems;Exploring+AI+and+LLM+applications;Learning+by+creating+real+projects" alt="Typing SVG" />
 
