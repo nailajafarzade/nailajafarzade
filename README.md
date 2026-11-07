@@ -99,19 +99,21 @@ A collection of programming and problem-solving practice.
 
 ---
 
+
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nailajafarzade&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;rank_icon=github" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailajafarzade&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nailajafarzade&amp;theme=tokyonight" width="100%" alt="GitHub profile summary" />
 
 <br/><br/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=nailajafarzade&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nailajafarzade&amp;theme=tokyonight" height="170" alt="Languages per repository" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nailajafarzade&amp;theme=tokyonight" height="170" alt="GitHub statistics" />
 
 </div>
+
 
 ---
 
