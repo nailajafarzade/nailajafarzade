@@ -3,15 +3,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:2563EB&height=190&section=header&text=Naila%20Jafarzade&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Python%20%7C%20Backend%20%7C%20AI%20%26%20LLM&descAlignY=58&descSize=16" width="100%" />
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:312E81,100:2563EB&amp;height=220&amp;section=header&amp;text=Naila%20Jafarzade&amp;fontSize=42&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Python%20%7C%20Backend%20%7C%20AI%20%26%20LLM&amp;descAlignY=58&amp;descSize=16" width="100%" alt="Profile header" />
 
+<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Building+backend+systems;Exploring+AI+%26+LLM+applications;Learning+by+creating+real+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;pause=1500&amp;color=818CF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+backend+systems;Exploring+AI+and+LLM+applications;Learning+by+creating+real+projects" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nailajafarzade&style=flat&color=6366f1" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=nailajafarzade&amp;style=flat&amp;color=6366f1" alt="Profile views" />
 
 </div>
 
@@ -31,9 +33,11 @@ I'm an IT student and developer interested in building practical software, backe
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,postgres,redis,rabbitmq,docker,git,github,linux,react,ts,vite&perline=7" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,spring,fastapi,postgres,redis,rabbitmq,docker,git,github,linux,react,ts,vite&amp;perline=7" alt="Tech stack" />
+
+</div>
 
 ---
 
@@ -104,13 +108,23 @@ A collection of programming and problem-solving practice.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nailajafarzade&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nailajafarzade&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;rank_icon=github" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailajafarzade&layout=compact&hide_border=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nailajafarzade&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight" alt="Top languages" />
 
-<br/>
+<br/><br/>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=nailajafarzade&theme=tokyonight&hide_border=true" />
+<img width="95%" src="https://streak-stats.demolab.com?user=nailajafarzade&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/6366f1/nailajafarzade" alt="Naila's GitHub contribution graph" width="100%" />
 
 </div>
 
@@ -128,6 +142,6 @@ A collection of programming and problem-solving practice.
 
 ### Building consistently. Improving one project at a time.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:312E81,100:0F172A&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,50:312E81,100:0F172A&amp;height=110&amp;section=footer" width="100%" alt="Footer" />
 
 </div>
