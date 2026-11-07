@@ -1,17 +1,13 @@
 
-<!-- Profile README | nailajafarzade -->
-
 <div align="center">
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:312E81,100:2563EB&amp;height=220&amp;section=header&amp;text=Naila%20Jafarzade&amp;fontSize=42&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Python%20%7C%20Backend%20%7C%20AI%20%26%20LLM&amp;descAlignY=58&amp;descSize=16" width="100%" alt="Profile header" />
+# Naila Jafarzade
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
+### Python Developer · Backend · AI & LLM
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;pause=1500&amp;color=818CF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+backend+systems;Exploring+AI+and+LLM+applications;Learning+by+creating+real+projects" alt="Typing SVG" />
-</a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=nailajafarzade&amp;style=flat&amp;color=6366f1" alt="Profile views" />
 
@@ -19,7 +15,7 @@
 
 ---
 
-## `$ whoami`
+## About Me
 
 I'm an IT student and developer interested in building practical software, backend systems, and AI-powered applications.
 
@@ -31,7 +27,7 @@ I'm an IT student and developer interested in building practical software, backe
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -41,7 +37,7 @@ I'm an IT student and developer interested in building practical software, backe
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -73,7 +69,6 @@ An AI-powered travel planning MVP that generates personalized travel itineraries
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -104,7 +99,7 @@ A collection of programming and problem-solving practice.
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -120,28 +115,18 @@ A collection of programming and problem-solving practice.
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/6366f1/nailajafarzade" alt="Naila's GitHub contribution graph" width="100%" />
+<img src="https://ghchart.rshah.org/6366f1/nailajafarzade" alt="GitHub contribution graph" width="100%" />
 
 </div>
 
 ---
 
-## 🌱 Beyond Code
-
-- I enjoy turning ideas into working projects.
-- I'm especially interested in the intersection of backend engineering and AI.
-- Always open to learning, collaboration, and meaningful engineering challenges.
-
----
-
 <div align="center">
 
-### Building consistently. Improving one project at a time.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563EB,50:312E81,100:0F172A&amp;height=110&amp;section=footer" width="100%" alt="Footer" />
+**Building consistently. Improving one project at a time.**
 
 </div>
