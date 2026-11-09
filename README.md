@@ -84,18 +84,14 @@ A gamified personal finance application built around a microservices architectur
 </td>
 <td width="50%" valign="top">
 
-### 🧩 [LeetCode Solutions](https://github.com/nailajafarzade/leetcode-solutions)
+### 🤖 [AI Job Matching Agent](https://github.com/nailajafarzade/ai-job-matching-agent)
 
-A collection of programming and problem-solving practice.
+An explainable AI-assisted job matching system that evaluates job opportunities against a structured candidate profile.
 
-**Focus:**
-- Algorithms
-- Data Structures
-- Java
-
-</td>
-</tr>
-</table>
+**Technologies:**
+- Python · FastAPI
+- Sentence Transformers
+- NLP · Semantic Search
 
 ---
 
